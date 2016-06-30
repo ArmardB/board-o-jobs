@@ -1,3 +1,3 @@
-[URL=http://s1230.photobucket.com/user/designguy09/media/rails-jobs.png.html][IMG]http://i1230.photobucket.com/albums/ee500/designguy09/rails-jobs.png[/IMG][/URL]
+![alt tag](http://i1230.photobucket.com/albums/ee500/designguy09/rails-jobs.png)
 
 Basic CRUD Job Board Application built with Rails.
